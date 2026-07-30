@@ -1,0 +1,26 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+
+# Build files
+bin/
+build/
+target/
+
+# Tomcat
+logs/
+temp/
+work/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
